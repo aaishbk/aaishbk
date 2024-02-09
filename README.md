@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aaishbk
 - 👀 I’m interested in fitness n coding
-- 🌱 I’m currently learning SQL, Python & wokring towards a AWS certificate
+- 🌱 I’m currently learning SQL, Python & working towards a AWS certificate
 - 💞️ I’m looking to collaborate on projects to better my skills
 - 📫 How to reach me - aaishbktr@gmail.com
 
